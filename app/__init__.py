@@ -1,0 +1,1 @@
+"""LabCare application package."""
